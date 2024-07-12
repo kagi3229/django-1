@@ -1,0 +1,37 @@
+
+body {
+    font-family :'Courier New', Courier, monospace ;
+    font-size : 65px;
+    color :rgb(48, 47, 47);
+    background-image: url(https://fromtheasia.com/wp-content/uploads/NCG112-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+
+.header-logo {
+    width: 50px;
+    height: 450px;
+    margin: 0 auto;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 30px;
+}
+
+.contents-list {
+    font-size : 30px ;
+    font-weight: bold;
+    -webkit-text-stroke: 1px #000;    
+}
+
+.contents-list a:link{
+    text-decoration: none;
+    color:lightblue;
+    -webkit-text-stroke:1px #000;
+}
+.contents-list a:visited, a:active{
+    color:lightblue;
+    -webkit-text-stroke:1px #000;
+}
+

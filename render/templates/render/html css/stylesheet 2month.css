@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace ;
+    background-color: rgb(209, 219, 219);
+}
+header{
+    font-size: 50px;
+    text-align: center;
+}
+.contents{
+    font-size: 40px;
+}
+.day{
+    border-top: 5px solid rgb(48, 27, 92);
+}

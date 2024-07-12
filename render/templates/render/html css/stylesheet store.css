@@ -1,0 +1,25 @@
+body{
+    font-family :'Courier New', Courier, monospace ;
+    background-image: url(https://fromtheasia.com/wp-content/uploads/NCG69.jpg);
+    background-color:rgba(255,255,255,0.1);
+    background-blend-mode:lighten;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    font-weight: bold;
+}
+
+header{
+    width: 100px;
+    margin: 0 auto;
+    font-size: 45px;
+    letter-spacing: 9px;
+}
+
+.contents {
+    font-size: 20px;
+    color:black;
+
+}
+
